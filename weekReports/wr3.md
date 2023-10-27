@@ -1,7 +1,7 @@
 ---
 name: Dana Abualia
 semester: fall 23
-course: cis 106
+course: cis106
 
 ## Week Report 3 
 
